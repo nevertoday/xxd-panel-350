@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 350"
+  short_description: "霓虹精灵：上半保留原照，下半把环境退成浅淡细墨线稿，主体变成一只彩虹光晕的软胖发光精灵，身边飘着几只小精灵，右下角一行铅笔小题"
+  default_prompt: "Use $xxd-panel-350 to transform my photograph following the complete canonical source brief."
