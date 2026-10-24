@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 350｜Neon Spirits: keeps the photo and redraws the subject's small corner as a quiet, pale, carefully observed fine-ink line drawing, except the subject itself, which becomes a soft, chubby glowing spirit that keeps its outline — ring after ring of airbrushed rainbow halo with no lines, two small round eyes and a short line mouth — while a few smaller spirits peek out, crouch or trail coloured smoke nearby, joined by one light arc, with plenty of empty space and a tiny pencilled gallery-style title in the lower-right corner; any Chinese is Simplified. Scenes are reduced to one representative element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-350 or asks for glowing rainbow spirits over a line drawing, a psychedelic creature overlay or whimsical neon blobs from a photo.",
+  "short_description": "霓虹精灵：把照片角落画成浅淡线稿，主体变成一圈圈彩虹光晕的软胖发光精灵",
+  "zh-CN": {
+    "name": "霓虹精灵",
+    "tagline": "把照片角落画成浅淡线稿，让主体变成一只发光的彩虹软胖精灵。",
+    "look": "杂物被删掉，主体和紧挨它的一小片环境用细墨线认真勾成写实线稿，结构和透视照着照片画，颜色淡得几乎是暖白。主体却不再是线稿，而是一只没有线、靠柔光成形的软胖精灵：保留原来的外形，身体从中心向外一圈套一圈晕开，从照片里最鲜明的颜色过渡到粉、橙、黄、绿、蓝，脸上只有两颗小圆眼和一道短横线嘴。身边还有几只小精灵从物件后面探头、蹲在边上或拖着一缕彩色的烟，被一道光弧连起来，四周留出大片空白。右下角有一行手写细铅笔小字，像画边写下的作品题目。",
+    "traits": [
+      "浅淡细墨写实线稿",
+      "软胖发光精灵",
+      "一圈套一圈的彩虹光晕",
+      "小圆眼短横线嘴",
+      "彩色光弧",
+      "右下角铅笔题目"
+    ],
+    "good": [
+      "平常角落里有一个清楚主体：沙发上的猫、门廊的狗、窗台的盆栽",
+      "外形好认的日常物件：桌上的茶壶、墙边的自行车、老电视、一扇红门",
+      "构图差、背景乱或主体小的照片，环境会退成线稿，只让主体发光"
+    ],
+    "poor": [
+      "外形模糊、靠细节才能认出的主体，变成光团后会认不出来",
+      "想要整张彩色插画、完整场景或光滑商业卡通角色的需求",
+      "想要阴暗、写实或严肃气质的照片，比如证件照、新闻纪实"
+    ]
+  },
+  "en": {
+    "name": "Neon Spirits",
+    "tagline": "Draws your photo's corner as a pale line drawing and turns the subject into a glowing, chubby rainbow spirit.",
+    "look": "Clutter is removed, and the subject's small corner is drawn as a careful, realistic fine-ink line drawing that follows the photo's structure and perspective, tinted so lightly it is almost warm white. The subject itself is no longer line work but a soft, chubby spirit made only of glow: it keeps its outline, and its body spreads ring after ring from the centre, moving from the photo's brightest colour into pink, orange, yellow, green and blue, with just two small round eyes and a short line mouth. A few smaller spirits peek out from behind objects, crouch at the edges or trail a wisp of coloured smoke, joined by one arc of light, with plenty of empty space around. In the lower-right corner a tiny handwritten pencil line reads like a title written beside a painting.",
+    "traits": [
+      "Pale fine-ink line drawing",
+      "Chubby glowing spirit",
+      "Ringed rainbow halo",
+      "Dot eyes and line mouth",
+      "Coloured light arc",
+      "Pencilled title at lower right"
+    ],
+    "good": [
+      "An ordinary corner with one clear subject: a cat on a sofa, a dog on a porch, a pot plant on a windowsill",
+      "Everyday objects with a recognisable shape: a teapot on a table, a bicycle against a wall, an old TV, a red door",
+      "Photos with weak composition, messy backgrounds or a small subject, since the setting fades to line and only the subject glows"
+    ],
+    "poor": [
+      "Subjects with a vague outline that are recognised only by detail, which get lost once they become glow",
+      "Requests for a fully coloured illustration, a complete scene or a glossy commercial cartoon character",
+      "Photos that call for a dark, realistic or serious mood, such as ID photos or news documentary"
+    ]
+  },
+  "ja": {
+    "name": "ネオンの精霊",
+    "tagline": "写真の一角を淡い線画にし、主役を光る虹色のぽっちゃりした精霊に変えます。",
+    "look": "雑多なものを取り除き、主役とすぐそばの小さな環境を細い墨線で丁寧に写実的な線画にします。構造と遠近は写真のとおりで、色はほとんど温かい白に近いほど淡く敷くだけです。ところが主役は線画ではなく、線のない柔らかな光だけでできたぽっちゃりした精霊になります。外形はそのまま残し、体は中心から外へ一輪ずつ広がり、写真でいちばん鮮やかな色からピンク、オレンジ、黄、緑、青へと移ります。顔は小さな丸い目二つと短い横線の口だけです。そばには小さな精霊が何匹か、物の陰から顔を出したり、端にしゃがんだり、色の煙をたなびかせたりしていて、一本の光の弧でつながり、周りには大きな余白があります。右下には、絵の脇に書いた題名のような細い鉛筆の手書きが一行入ります。",
+    "traits": [
+      "淡い細墨の写実線画",
+      "ぽっちゃり光る精霊",
+      "幾重もの虹色の光輪",
+      "丸い目と横線の口",
+      "色の光の弧",
+      "右下の鉛筆の題名"
+    ],
+    "good": [
+      "ありふれた一角にはっきりした主役がいる写真：ソファの猫、玄関ポーチの犬、窓辺の鉢植え",
+      "形のわかりやすい日用品：テーブルのティーポット、壁ぎわの自転車、古いテレビ、赤いドア",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（環境は線画に退き、主役だけが光ります）"
+    ],
+    "poor": [
+      "輪郭があいまいで細部でしか見分けられない主役（光の塊になると判別できません）",
+      "全面カラーのイラスト、場面全体、つるっとした商業キャラクターを求める場合",
+      "暗い、写実的、あるいはシリアスな雰囲気が必要な写真：証明写真、報道写真など"
+    ]
+  },
+  "ko": {
+    "name": "네온 정령",
+    "tagline": "사진 속 한구석을 옅은 선화로 그리고, 주인공을 빛나는 무지개색 통통한 정령으로 바꿉니다.",
+    "look": "잡동사니를 지우고, 주인공과 바로 곁의 작은 환경을 가는 먹선으로 꼼꼼한 사실적 선화로 그립니다. 구조와 원근은 사진을 따르고, 색은 거의 따뜻한 흰색에 가까울 만큼 옅게만 깝니다. 그런데 주인공은 선화가 아니라 선 없이 부드러운 빛으로만 이루어진 통통한 정령이 됩니다. 외형은 그대로 남기고, 몸은 가운데서 바깥으로 한 겹씩 번지며 사진에서 가장 선명한 색에서 분홍, 주황, 노랑, 초록, 파랑으로 넘어갑니다. 얼굴은 작은 동그란 눈 두 개와 짧은 가로선 입뿐입니다. 곁에는 작은 정령 몇 마리가 물건 뒤에서 고개를 내밀거나 가장자리에 쪼그려 앉거나 색 연기를 끌고 있고, 빛의 호 하나로 이어지며 주변은 넓은 여백입니다. 오른쪽 아래에는 그림 옆에 적은 제목 같은 가는 연필 손글씨 한 줄이 있습니다.",
+    "traits": [
+      "옅은 가는 먹선 사실 선화",
+      "통통한 빛의 정령",
+      "겹겹의 무지개 광륜",
+      "동그란 눈과 가로선 입",
+      "색 빛의 호",
+      "오른쪽 아래 연필 제목"
+    ],
+    "good": [
+      "평범한 구석에 뚜렷한 주인공이 있는 사진: 소파 위 고양이, 현관 앞 강아지, 창가 화분",
+      "형태를 알아보기 쉬운 일상 사물: 탁자 위 찻주전자, 벽에 기댄 자전거, 오래된 TV, 빨간 문",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(환경은 선화로 물러나고 주인공만 빛납니다)"
+    ],
+    "poor": [
+      "윤곽이 흐릿해 세부로만 알아볼 수 있는 주인공(빛 덩어리가 되면 알아볼 수 없습니다)",
+      "화면 전체 컬러 일러스트, 장면 전체, 매끈한 상업 캐릭터를 원하는 경우",
+      "어둡거나 사실적이거나 진지한 분위기가 필요한 사진: 증명사진, 보도 사진 등"
+    ]
+  },
+  "ar": {
+    "name": "أرواح النيون",
+    "tagline": "يرسم زاوية صورتك رسماً خطياً باهتاً، ويحوّل العنصر الرئيسي إلى روح ممتلئة متوهّجة بألوان قوس قزح.",
+    "look": "تُحذف الفوضى، وتُرسم الزاوية الصغيرة المحيطة بالعنصر رسماً خطياً واقعياً متأنّياً بحبر رفيع يتبع بنية الصورة ومنظورها، بلون خفيف جداً يكاد يكون أبيض دافئاً. أما العنصر نفسه فلا يعود خطوطاً، بل روحاً ممتلئة ناعمة مصنوعة من التوهّج وحده: تحتفظ بشكلها الخارجي، وينتشر جسمها حلقةً بعد حلقة من المركز، من أكثر ألوان الصورة إشراقاً إلى الوردي والبرتقالي والأصفر والأخضر والأزرق، ولا يحمل وجهها إلا عينين صغيرتين مستديرتين وخطاً قصيراً للفم. وحولها بضع أرواح أصغر تطلّ من خلف الأشياء أو تجثم عند الأطراف أو تجرّ خيطاً من دخان ملوّن، تربطها قوس ضوئية واحدة، مع فراغ واسع حولها. وفي الزاوية اليمنى السفلى سطر صغير بقلم رصاص بخط اليد كعنوان مكتوب بجانب لوحة.",
+    "traits": [
+      "رسم خطي باهت بحبر رفيع",
+      "روح ممتلئة متوهّجة",
+      "هالة قوس قزح متتالية الحلقات",
+      "عينان مستديرتان وفم خطي",
+      "قوس ضوئية ملوّنة",
+      "عنوان بالرصاص أسفل اليمين"
+    ],
+    "good": [
+      "زاوية عادية فيها عنصر واضح: قطة على أريكة، كلب في مدخل البيت، نبتة على حافة نافذة",
+      "أشياء يومية سهلة التعرّف من شكلها: إبريق شاي على طاولة، دراجة مسنودة إلى جدار، تلفاز قديم، باب أحمر",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، إذ يتراجع المكان إلى خطوط ويتوهّج العنصر وحده"
+    ],
+    "poor": [
+      "عناصر مبهمة الشكل لا تُعرف إلا من تفاصيلها، فتضيع حين تصير توهّجاً",
+      "طلب رسم ملوّن بالكامل أو مشهد كامل أو شخصية كرتونية تجارية لامعة",
+      "صور تتطلب جواً قاتماً أو واقعياً أو جاداً، مثل صور الهوية أو التصوير الصحفي"
+    ]
+  }
+}
